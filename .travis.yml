@@ -1,3 +1,4 @@
-language: generic
+language: bash
 script:
-	- bash -e ./test_kadai2.sh
+	- ./test_kadai2.sh
+	- ./kadai2.sh
