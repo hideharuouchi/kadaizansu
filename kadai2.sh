@@ -18,4 +18,4 @@ do
 	r=`expr $a % $b`
 done
 
-echo $b
+echo "ans = $b"
