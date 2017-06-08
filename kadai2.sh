@@ -18,4 +18,4 @@ do
 	r=`expr $a % $b`
 done
 
-echo "The greatest common divisor: $b"
+echo $b
