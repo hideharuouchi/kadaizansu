@@ -1,4 +1,4 @@
 language: bash
 script:
-	- ./test_kadai2.sh
-	- ./kadai2.sh
+  - ./test_kadai2.sh
+  - ./kadai2.sh
